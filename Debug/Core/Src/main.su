@@ -1,0 +1,12 @@
+../Core/Src/main.c:61:6:ToggleLed1	8	static
+../Core/Src/main.c:64:6:ToggleLed2	8	static
+../Core/Src/main.c:67:6:ToggleLed3	8	static
+../Core/Src/main.c:70:6:ToggleLed4	8	static
+../Core/Src/main.c:73:6:ToggleLed5	8	static
+../Core/Src/main.c:77:6:oneshot	8	static
+../Core/Src/main.c:86:5:main	16	static
+../Core/Src/main.c:149:6:SystemClock_Config	72	static
+../Core/Src/main.c:185:13:MX_TIM2_Init	32	static
+../Core/Src/main.c:230:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:265:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:277:6:Error_Handler	4	static,ignoring_inline_asm
